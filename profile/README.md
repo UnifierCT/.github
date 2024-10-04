@@ -30,3 +30,7 @@ Please join our [Discord server](https://discord.gg/a4KpNcARzK), then DM Green (
 
 Once you have sent us the necessary information, we'll create a fork of Unifier for your language (if needed, forking
 lets us sync the newest english.json file more easily to forks), then we'll grant you access to the repository.
+
+## Note
+Localization efforts are led by @NullyIsHere. If you have any questions regarding localization, he's the one you should
+ask.
